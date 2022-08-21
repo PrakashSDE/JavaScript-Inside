@@ -81,3 +81,11 @@ const calculate= function(radius,logic){
 console.log(calculate(radius,area));
 console.log(calculate(radius,circumference));
 console.log(calculate(radius,diameter));
+
+
+//Arrow Function
+
+const getData = (param1, param2) =>{
+ console.log(param1, param2)
+}
+getData();
