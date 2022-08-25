@@ -1,12 +1,12 @@
  //Scope of a Variable
- main();
+  main();
  
- function main(){
+  function main(){
        var a ="Hi," 
        console.log(a);    //console.log(a,b,c,d,e) is not applicable
        part1();
 
-     function part1(){
+      function part1(){
           var b="JS Script";
           console.log(a,b);
           part2();
