@@ -16,9 +16,9 @@
                console.log(a,b,c);
                part3();
               
-                  function part3(){
-                    let d="Lexical Environment"
-                    console.log(a,b,c,d);
+                   function part3(){
+                     let d="Lexical Environment"
+                      console.log(a,b,c,d);
                 }
           }          
      }
