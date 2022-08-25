@@ -1,5 +1,4 @@
  //Scope of a Variable
-
  main();
  
  function main(){
@@ -24,7 +23,6 @@
           }          
      }
  }
-
 // This Whole process is called Scope Chain
 
    
