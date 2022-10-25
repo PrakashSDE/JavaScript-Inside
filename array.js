@@ -23,8 +23,10 @@ console.log(a)
 const d=[12,25,555.2];
 const e=[1,2,5.2];
 const f=d.concat(e);
+
 console.log(f);
-console.log(f);
+
+
 
 f.find(( element, index, array) => {
           return true;
