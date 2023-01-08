@@ -1,6 +1,6 @@
 
 function ThroughLet(){
-      for(let i=1;i<=6;i++){
+     for(let i=1;i<=6;i++){
       setTimeout(function(){
           console.log(i);
           },i*1000)
